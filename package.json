@@ -1,0 +1,29 @@
+{
+  "name": "watchthings",
+  "version": "1.0.0",
+  "description": "An app to manage things to watch",
+  "main": "index.js",
+  "workspaces": [
+    "watch-things-api*",
+    "watch-things-app*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnmanuelUrena/WatchThings.git"
+  },
+  "keywords": [
+    "WatchThings",
+    "Movies",
+    "Series",
+    "Watch"
+  ],
+  "author": "Enmanuel Urena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnmanuelUrena/WatchThings/issues"
+  },
+  "homepage": "https://github.com/EnmanuelUrena/WatchThings#readme"
+}
